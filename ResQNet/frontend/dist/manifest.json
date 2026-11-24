@@ -1,0 +1,16 @@
+{
+  "name": "ResQNet PWA",
+  "short_name": "ResQNet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0284c7",
+  "description": "Agentic AI Disaster Relief Coordination & Animal Emergency Response",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
